@@ -40,7 +40,9 @@ You can play the game basically in the role of
 ## The Garage - Beginning of the game
 You start from humble beginnings with a little bit of land, coming
 right from your distant (and past) relatives.
-With the booming 1920s and electricity starting to serve in all kinds of
+With the booming 1920s and electricity starting to serve invariably
+throughout everyday life: lights, in vehicles, industrial engines,
+home appliances, etc.
 
 ## Main functions in the game
 
